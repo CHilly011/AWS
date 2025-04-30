@@ -7,4 +7,4 @@ ls -la /var/www/html/scripts/
 # Restart Apache
 sudo systemctl restart httpd
 echo "Apache status: $(systemctl status httpd)"
-echo "=== SCRIPT COMPLETED ===
+echo "=== SCRIPT COMPLETED ==="
